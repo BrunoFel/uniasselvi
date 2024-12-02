@@ -1,0 +1,12 @@
+
+#Ao entrar desse diretório, o usuário acessa a index.php que passa a interpretar qualquer texto após o domínio como uma única String $_GET que deverá ser decomposta em várias partes para ser utilizada como um valor de controller, métood e parâmetro
+
+<ifModule mod_rewrite.c>
+    Options -MultiViews
+    RewriteEngine On
+    RewriteBase /3_projetos_deploy/2_bin_web_connect/3_bwc_sis_obj/
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.+)$ index.php?url=$1 
+</ifModule>
+

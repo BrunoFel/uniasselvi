@@ -1,0 +1,22 @@
+Erro ao enviar e-mail: SMTP Error: Could not authenticate.
+Erro ao enviar e-mail: SMTP Error: Could not authenticate.
+Erro ao enviar e-mail: SMTP Error: Could not authenticate.
+Erro ao enviar e-mail: SMTP Error: Could not authenticate.
+Erro ao enviar e-mail: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 10060 Additional SMTP info: Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+Erro ao enviar e-mail: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 10060 Additional SMTP info: Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+Erro ao enviar e-mail: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 10060 Additional SMTP info: Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+Erro ao enviar e-mail: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 10060 Additional SMTP info: Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+Erro ao enviar e-mail: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 10060 Additional SMTP info: Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+Erro ao enviar e-mail: SMTP Error: Could not authenticate.
+Erro ao enviar e-mail: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo failed: Este host n�o � conhecido. 
+Erro ao enviar e-mail: SMTP Error: Could not authenticate.

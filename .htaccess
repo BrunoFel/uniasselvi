@@ -1,0 +1,13 @@
+#Ao entrar desse diretório, esse arquivo redireciona o usuário para a pasta public/index.php
+
+<ifModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Redireciona para public/index.php se a URL estiver vazia
+    RewriteRule ^$ /projetos-deploy/2_bin_web_connect/3_bwc_sis_obj/public/index.php [L] 
+    
+    # Redireciona qualquer outra URL para public/index.php
+    RewriteRule (.+) public/index.php?url=$1 [L,QSA]
+</ifModule>
+
+

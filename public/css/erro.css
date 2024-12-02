@@ -1,0 +1,10 @@
+
+
+.error-container {
+  
+  text-align: center;
+  padding: 2rem;
+}
+.error-container .error-img {
+  height: calc(100vh - 120px);
+}
